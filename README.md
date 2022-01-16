@@ -16,4 +16,4 @@ Hence, we use the exponential function to find the standard curve equation
 3. Use Apple Home app to obtain calibrated Lux Value.
 4. Confirm reliability (R2 = 0.9999)
 
-![Uploading Standard Curve.jpg…]()
+![Standard Curve](https://user-images.githubusercontent.com/6136369/149661712-20b37faa-8b3d-4508-bc62-64fb5c751514.jpg)
