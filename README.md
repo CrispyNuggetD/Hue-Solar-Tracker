@@ -1,7 +1,7 @@
 # Hue-Solar-Tracker
-Finding the correlation between Luxmeter in Philips Hue Motion Sensor
+Finding the correlation between Luxmeter in Philips Hue Motion Sensor.
 
-I can't find the equation for this, so I just went ahead and did it.
+I can't find the equation for this, so I just went ahead and did it as I needed a makeshift luxmeter for a project on solar energy sustainability in Singapore.
 If you have related knowledge, please do not hesitate to contact me.
 
 ## Preface
