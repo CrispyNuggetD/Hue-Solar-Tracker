@@ -15,3 +15,5 @@ Hence, we use the exponential function to find the standard curve equation
 2. Obtain value of sensor photodiode reading using Philips Hue Developer Sensor APIs. (E.g. Using Mac’s Terminal Application to run Python script with JSON to API)
 3. Use Apple Home app to obtain calibrated Lux Value.
 4. Confirm reliability (R2 = 0.9999)
+
+![Uploading Standard Curve.jpg…]()
